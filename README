@@ -1,3 +1,17 @@
+
+Objective to fork this branch:
+=============================
+To understand basic Linux kernel build on RPi3 with steps given in below link:
+https://www.raspberrypi.org/documentation/linux/kernel/building.md
+
+Also, need to include sample kernel module and modify existing I2C based Touch 
+driver(FT6x06) for future reference.
+
+Block Diagram:
+=============
+
+
+
 Linux kernel
 ============
 
